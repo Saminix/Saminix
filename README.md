@@ -1,3 +1,7 @@
+<img align="right" height="282" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"  />
+
+###
+
 <h1 align="left">🎊Hello Everyone!👋🎊</h1>
 
 ###
@@ -6,15 +10,19 @@
 
 ###
 
-<img align="right" height="266" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"  />
-
-###
-
-<p align="center">I'm a Computer Science student at  City, University of London.  I am currently in my Third and Final Year. 🤯<br>I’m passionate 🔥 about software development, data science, and machine learning.</p>
-
-###
-
 <h6 align="left">💻 I love coding challenges and building projects that change the world 🌍 around me for the better. <br>🚀 I have some exciting projects coming up— so stay tuned!  <br><br>Feel free to check out my repositories and connect with me.🌿<br><br>CHECK OUT LINKEDLN, PORTFOLIO & YOUTUBE CHANNEL 🔥</h6>
+
+###
+
+<p align="left">I'm a Computer Science student at  City, University of London.  I am currently in my Third and Final Year. 🤯<br>I’m passionate 🔥 about software development, data science, and machine learning.</p>
+
+###
+
+<img align="right" height="207" src="https://i.redd.it/uufa6e2zj1kb1.gif"  />
+
+###
+
+<p align="left">Programming Languages I'm a Pro at! 😎✌️</p>
 
 ###
 
@@ -26,10 +34,6 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">Programming Languages I'm a Pro at! 😎✌️</p>
 
 ###
 
@@ -54,6 +58,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">🔭 Being super keen on data analytics that I'm studying Pandas. <br><br>🌱  I’m currently working on a couple of python projects! But with.. Raspberry Pi WHOHOOOO!!!! 🥳🥳 <br> I am going to create my very own motion sensor, ring security camera outdoors with python. <br><br>⚡ Fun fact: I LOVE CAMPING OUTDOORS AND TRAVELLING THE WORLD. <br>I hope to create something meaningful for the world, one that solves worldy issues and makes them better.</p>
 
 ###
 
@@ -91,15 +103,3 @@
 </div>
 
 ###
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
