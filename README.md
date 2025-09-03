@@ -1,7 +1,3 @@
-<img align="right" height="282" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"  />
-
-###
-
 <h1 align="left">🎊Hello Everyone!👋🎊</h1>
 
 ###
@@ -10,19 +6,11 @@
 
 ###
 
-<h6 align="left">💻 I love coding challenges and building projects that change the world 🌍 around me for the better. <br>🚀 I have some exciting projects coming up— so stay tuned!  <br><br>Feel free to check out my repositories and connect with me.🌿<br><br>CHECK OUT LINKEDLN, PORTFOLIO & YOUTUBE CHANNEL 🔥</h6>
+<img align="right" height="282" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"  />
 
 ###
 
-<p align="left">I'm a Computer Science student at  City, University of London.  I am currently in my Third and Final Year. 🤯<br>I’m passionate 🔥 about software development, data science, and machine learning.</p>
-
-###
-
-<img align="right" height="207" src="https://i.redd.it/uufa6e2zj1kb1.gif"  />
-
-###
-
-<p align="left">Programming Languages I'm a Pro at! 😎✌️</p>
+<h5 align="left">💻 I love coding challenges and building projects that change the world 🌍 around me for the better. <br>🚀 I have some exciting projects coming up— so stay tuned!  <br><br>Feel free to check out my repositories and connect with me.🌿<br><br>CHECK OUT LINKEDLN, PORTFOLIO & YOUTUBE CHANNEL 🔥</h5>
 
 ###
 
@@ -34,6 +22,14 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">I'm a Computer Science student at  City, University of London.  I am currently in my Third and Final Year. 🤯<br>I’m passionate 🔥 about software development, data science, and machine learning.</p>
+
+###
+
+<p align="left">Programming Languages I'm a Pro at! 😎✌️</p>
 
 ###
 
@@ -61,7 +57,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<img align="left" height="207" src="https://i.redd.it/uufa6e2zj1kb1.gif"  />
 
 ###
 
@@ -87,6 +83,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/sameen-iqbal/sameen-iqbal/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -94,12 +92,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameen-iqbal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=sameen-iqbal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
