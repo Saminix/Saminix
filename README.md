@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/@SamIqb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-   <a href="[https://www.youtube.com/@SamIqb](https://saminix.neocities.org/)" target="_blank">
+   <a href="https://saminix.neocities.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=website&logo=website&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Web"  />
   </a>
 </div>
